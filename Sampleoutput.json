@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 18,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Canny Maphanga",
+            "title": "Mthokozisi Ntumba: Court hears that other students were allegedly shot by police on fateful day",
+            "description": "Tshephisho Kekana, 27, Cidraas Motseothatha, 43, Madimetja Legodi, 37, and Victor Mohammed, 51, face one count of murder and three counts of attempted murder.",
+            "url": "https://www.news24.com/news24/SouthAfrica/News/mthokozisi-ntumba-court-hears-that-other-students-were-allegedly-shot-by-police-on-fateful-day-20220118",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11109/e791a1d5e6214c5383ce555e67d7c8bc.jpg",
+            "publishedAt": "2022-01-18T17:29:15+00:00",
+            "content": "<ul><li>The trial of four cops accused of the murder of Mthokozisi Ntumba continues.</li><li>A witness testified that other students were also shot.</li><li>Ntumba died after he was shot, allegedly b… [+2487 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ashling Murphy killing: Irish police arrest man",
+            "description": "The 23-year-old died after being attacked along a County Offaly canal last Wednesday.",
+            "url": "http://www.bbc.co.uk/news/world-europe-60043548",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4776/production/_122749281_ashlingvigil_pa.jpg",
+            "publishedAt": "2022-01-18T15:37:29.2793131Z",
+            "content": "Image source, Comhaltas Ceoltóirí Éireann\r\nImage caption, Ashling Murphy was a teacher and talented folk musician\r\nA man in his 30s has been arrested on suspicion of the murder of primary school teac… [+441 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Chiara Giordano",
+            "title": "Ashling Murphy: Irish police arrest man on suspicion of murder",
+            "description": "A man in his 30s has been arrested on suspicion of murder over the death of Ashling Murphy in Ireland.",
+            "url": "https://www.independent.co.uk/news/world/europe/ashling-murphy-news-death-suspect-b1995440.html",
+            "urlToImage": "https://static.independent.co.uk/2022/01/18/15/newFile.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-18T15:17:14+00:00",
+            "content": "A man in his 30s has been arrested on suspicion of murder over the death of Ashling Murphy in Ireland. \r\nThe 23-year-old, a talented musician and primary school teacher, was found dead on 12 January … [+1832 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Chiara Giordano",
+            "title": "Ashling Murphy: Irish police arrest man on suspicion of murder",
+            "description": "A man in his 30s has been arrested on suspicion of murder over the death of Ashling Murphy.",
+            "url": "http://www.independent.co.uk/news/world/europe/ashling-murphy-news-death-suspect-b1995440.html",
+            "urlToImage": "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-18T15:02:38Z",
+            "content": "Registration is a free and easy way to support our truly independent journalism\r\nBy registering, you will also enjoy limited access to Premium articles, exclusive newsletters, commenting, and virtual… [+35 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Chris Ndaliso",
+            "title": "Police confirm that complaints reported at top KZN school are of sexual nature",
+            "description": "The provincial police have confirmed that the complaints reported by a top Midlands school this week are of a sexual nature.",
+            "url": "https://www.news24.com/witness/News/Pietermaritzburg/police-confirm-that-complaints-reported-at-top-kzn-school-are-of-sexual-nature-20220118",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9182/472430890f134e65a2092e5d37043a5f.jpg",
+            "publishedAt": "2022-01-18T14:47:14+00:00",
+            "content": "The provincial police have confirmed that the complaints reported by a top Midlands school this week are of a sexual nature.\r\nThe school’s governing body has also confirmed this, but would not give d… [+1736 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "Gabby Rodrigues",
+            "title": "Major delays continue across Highway 401 in Toronto day after massive snow storm",
+            "description": "Ontario Provincial Police officers are calling it an 'Ontario storm hangover' as delays and traffic were reported across major Toronto-area highways early Tuesday.",
+            "url": "https://globalnews.ca/news/8519010/highway-401-cleanup-delays-after-snow-storm/",
+            "urlToImage": "https://globalnews.ca/wp-content/uploads/2022/01/highway-401-weston-backup-2.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+            "publishedAt": "2022-01-18T12:43:21+00:00",
+            "content": "The Ontario Provincial Police say there are major delays all across highways in the Greater Toronto Area due to the aftermath of a winter snowstorm that hit southern Ontario.\r\nThe OPP are calling it … [+3025 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "birminghammail.co.uk",
+            "title": "Man plunges 40ft from Utilita Arena car park amid car break-in probe",
+            "description": "He suffered a string of injuries as early-morning case referred to police watchdog",
+            "url": "https://www.birminghammail.co.uk/news/midlands-news/man-plunges-40ft-utilita-arena-22788709",
+            "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article22788809.ece/ALTERNATES/s1200/0_60d4dfab-a793-4c82-8954-9dd24efce0afJPG.jpg",
+            "publishedAt": "2022-01-18T12:42:35+00:00",
+            "content": "A man was rushed to hospital after falling 40ft from Birmingham's biggest events arena following reports of car break-ins.\r\nHe suffered a broken ankle, broken pelvis and back injuries after plunging … [+1706 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lori Rozsa, Beth Reinhard",
+            "title": "Florida governor proposes special police agency to monitor elections",
+            "description": "No state has such a force, which Gov. Ron DeSantis (R) wants empowered to arrest voters and others who allegedly violate election laws.",
+            "url": "https://www.washingtonpost.com/nation/2022/01/18/florida-governor-proposes-special-police-agency-monitor-elections/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PXVIITTTFQI6ZITNDQQ4C2Y4SM.jpg&w=1440",
+            "publishedAt": "2022-01-18T11:30:56Z",
+            "content": "The proposed Office of Election Crimes and Security would be part of the Department of State, which answers to the governor. DeSantis is asking the GOP-controlled legislature to allocate nearly $6 mi… [+7639 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Express News Service",
+            "title": "Elopement case: It is complete forgery of documents, A to Z everything was forged, Delhi HC on UP Police action",
+            "description": "Justice Mukta Gupta said that the two men were illegally taken from Delhi without informing the local police station and were kept in illegal custody for two days by the UP Police.",
+            "url": "https://indianexpress.com/article/cities/delhi/delhi-hc-up-police-action-forgery-7729955/",
+            "urlToImage": "https://images.indianexpress.com/2022/01/Delhi-HC-6-1-2.jpeg",
+            "publishedAt": "2022-01-18T10:47:20+00:00",
+            "content": "The Delhi High Court on Tuesday said that the UP policemen committed forgery by recording false information in the official records with regard to the arrests of two men from Delhi in September, 2021… [+1489 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": "Carrie Tait",
+            "title": "Alberta Justice Minister Kaycee Madu will ‘step back’ after calling police over ticket, Premier Jason Kenney says",
+            "description": "Premier Jason Kenney said Minister of Energy Sonya Savage will fill after Kaycee Madu phoned Edmonton’s police chief over traffic ticket",
+            "url": "https://www.theglobeandmail.com/canada/article-alberta-justice-minister-kaycee-madu-will-step-back-after-calling/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/qtVXkigAkdj_USAPAppBSlJ354M=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/265RUGXXLVERNE4ZTMGFK2YZG4.jpg",
+            "publishedAt": "2022-01-18T10:35:03+00:00",
+            "content": "Kaycee Madu will step back as Justice Minister, Alberta Premier Jason Kenney said.JASON FRANSON/The Canadian Press\r\nAlberta Premier Jason Kenney has asked the provincial justice minister to step back… [+5503 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "L'auteur présumé de l'agression lors du derby de Séville arrêté par la police espagnole",
+            "description": "La police espagnole a arrêté mardi l'homme suspecté d'avoir lancé la barre en PVC qui a atteint Joan Jordan lors du derby de Séville, samedi.",
+            "url": "https://www.lequipe.fr/Football/Actualites/L-auteur-presume-de-l-agression-lors-du-derby-de-seville-arrete-par-la-police-espagnole/1311313",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/joan-jordan-au-sol-apres-avoir-recu-une-barre-sur-la-tete-j-corchero-presse-sports/1500000001594181/0:0,1995:1330-640-427-75/b235f.jpg",
+            "publishedAt": "2022-01-18T09:12:00+00:00",
+            "content": "La police espagnole a arrêté lundi un homme soupçonné d'être l'auteur du jet de la barre en PVC samedi lors du derby de Séville. L'objet avait frappé Joan Jordan à la tête, entraînant l'interruption … [+109 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "ECB to investigate early-hours party",
+            "description": "The England and Wales Cricket Board will investigate after police were called to break up the players' post-Ashes party.",
+            "url": "http://www.bbc.co.uk/sport/cricket/60035895",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1224B/production/_122751347_rootanderson.jpg",
+            "publishedAt": "2022-01-18T08:07:27.8007239Z",
+            "content": "Players from both teams traditionally get together after the final Test of an Ashes series\r\nThe England and Wales Cricket Board will investigate after police were called to break up an early-hours dr… [+1458 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Zoe Zaczek",
+            "title": "Cops seize ute as major hunt for missing girl enters fifth day",
+            "description": "Police investigating the disappearance of a nine-year-old schoolgirl who vanished from a luxurious wedding venue have now turned their focus to a red ute as the search effort enters its fifth day.",
+            "url": "https://www.skynews.com.au/australia-news/nsw-police-seize-red-ute-following-disappearance-of-nineyearold-girl-charlise-mutten-in-the-blue-mountains/news-story/cf1bd1dfc87984a2bb0a73dd09149ceb",
+            "urlToImage": "https://content.api.news/v3/images/bin/9f01fdcb28c39de35f95bb5f019edeb7",
+            "publishedAt": "2022-01-17T23:23:41+00:00",
+            "content": "The search for missing nine-year-old Charlise Mutten entered its fifth day on Tuesday, with investigators now focusing their attention on the movements of a mysterious red ute.Police investigating th… [+1845 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Evin Priest",
+            "title": "Police release images of men after Sydney lockdown protests",
+            "description": "Police release images of men after Sydney lockdown protests",
+            "url": "https://www.news.com.au/national/nsw-act/crime/police-release-images-of-men-after-sydney-lockdown-protests/news-story/5993d47ca4cab790cc0284540542295a",
+            "urlToImage": "https://cdn.newsapi.com.au/image/v1/822e66493a485251490c80dfdb635895?width=1280",
+            "publishedAt": "2021-08-23T22:36:00Z",
+            "content": "Police have released additional images of more men as they continue to investigate an unauthorised protest in Sydneys CBD in July.Strike Force Seasoned was created to investigate an anti-lockdown pro… [+1339 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC",
+            "title": "Brothers charged in killing, wounding of Chicago police officers",
+            "description": "Two brothers were arrested in a weekend shooting in Chicago that left one police officer dead and another in critical condition, authorities said Monday.",
+            "url": "https://www.nbcnews.com/news/us-news/brothers-charged-killing-wounding-chicago-police-officers-n1276388",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_32/3497892/210809-chicago-police-snip-ac-848p.jpg",
+            "publishedAt": "2021-08-10T01:44:42Z",
+            "content": "Two brothers were arrested in a weekend shooting in Chicago that left one police officer dead and another in critical condition, authorities said Monday.\r\nA third person was arrested and is accused o… [+1355 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "David Gilbert",
+            "title": "Minneapolis is Burning: Protesters Loot and Set Buildings On Fire to Protest Police Killing of George Floyd",
+            "description": "Police used tear gas and rubber bullets on protesters who gathered outside the precinct where Derek Chauvin, the officer who kneeled on Floyd's neck until he was unresponsive, worked until this week.",
+            "url": "https://www.vice.com/en_us/article/y3zd5x/minneapolis-is-burning-protesters-loot-and-set-buildings-on-fire-to-protest-police-killing-of-george-floyd",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecf88fdcb0f08009c8e79f7/lede/1590662200111-AP_20149167679642.jpeg?crop=1xw:0.8387xh;0xw,0.0189xh&resize=1200:*",
+            "publishedAt": "2020-05-28T11:20:17Z",
+            "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n Minneapolis burned on Wednesday night as protesters clashed with police for a second night following the death of George Floyd after… [+4576 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Tess Owen",
+            "title": "New Videos Appear to Undermine Police Account That George Floyd 'Resisted' Officers",
+            "description": "The videos show Floyd appearing to surrender before dying after his face was pressed into the street with an officer's knee on his neck.",
+            "url": "https://www.vice.com/en_us/article/4ayv4p/new-videos-appear-to-undermine-police-account-that-george-floyd-resisted-officers",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceeffa501a5500975ebe7d/lede/1590620461411-Screen-Shot-2020-05-27-at-65737-PM.png?crop=1xw:0.8903601694915254xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T23:11:02Z",
+            "content": "Videos taken by bystanders show the moments leading up to the deadly arrest of George Floyd and appear to undermine Minneapolis polices account that he was uncooperative. \r\n Minneapolis cops said tha… [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Emma Ockerman",
+            "title": "The Cops Involved in George Floyd's Fatal Arrest Had Previous Violent Incidents on the Force",
+            "description": "Derek Chauvin, who kneeled on Floyd's neck for minutes, had been involved in at least two police shootings during his tenure.",
+            "url": "https://www.vice.com/en_us/article/wxq5gn/the-cops-involved-in-george-floyds-fatal-arrest-had-previous-violent-incidents-on-the-force",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ece94a6c19e170098c78783/lede/1590597223699-AP_20148017868432.jpeg?crop=1xw:0.8416666666666667xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T16:36:09Z",
+            "content": "Two of the four Minneapolis cops involved in George Floyds fatal arrest Monday including the one seen in a viral video kneeling on the black mans neck for several minutes as he repeatedly cried out t… [+4196 chars]"
+        }
+    ]
+}
